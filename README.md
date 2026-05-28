@@ -16,6 +16,20 @@ The application to be developed as part of this project is called "AI Central". 
 ### Licensing:
 Copyright (c) 2026 Asimov Software Solutions - All rights reserved
 
+### Project Cost:
+Two main components of this project required/ may require payment:
+
+1. The DNS - The server's domain name was purchased for a low price of $7.98 p.a. from NameCheap
+2. IaaS - For this project, use of the virtual machine on Microsoft Azure was purchased with free student credits. The price for a VM with the same configurations is an estimated $1,095.00 p.a. according to Azure's cost calculator.
+
+### Device Specs:
+This project was primarily developed on a MacBook Air with:
+
+- An Apple M2 silicon chip
+- 8 GB RAM
+- 245.11 GB total storage
+
+
 ## Table of Contents:
 
 1. 
