@@ -32,11 +32,11 @@ This project was primarily developed on a MacBook Air with:
 
 ## Table of Contents:
 
-1. [Local Virtualisation](#local-virtualisation)
-2. [Cloud Server](#cloud-server)
-3. [DNS](#dns)
-4. [Digital Certificate](#digital-certificate)
-5. [Bash Scripting](#bash-scripting)
+1. [Local Virtualisation](#local-virtualisation.md)
+2. [Cloud Server](#cloud-server.md)
+3. [DNS](#dns.md)
+4. [Digital Certificate](#digital-certificate.md)
+5. [Bash Scripting](#bash-scripting.md)
 6. Additional Software Extensions:
     - WordPress
     - Node.js
