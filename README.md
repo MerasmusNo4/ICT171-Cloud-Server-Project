@@ -7,7 +7,7 @@ Documentation of the development of an online cloud server. This repository was 
 ### Submission Links:
 
 - **Website**: [https://aicentral-asimovss.tech/about-ai-central/](https://aicentral-asimovss.tech/about-ai-central/)
-- **Video Explainer**: 
+- **Video Explainer**: [https://murdochuniversity-my.sharepoint.com/:w:/g/personal/35953156_student_murdoch_edu_au/IQDp2LsbK2BGTp1VW2i7bHT5AXGV7wmFl9eysx75JAopLyE?email=Subash.Khati%40murdoch.edu.au&e=6SyRSs](https://murdochuniversity-my.sharepoint.com/:w:/g/personal/35953156_student_murdoch_edu_au/IQDp2LsbK2BGTp1VW2i7bHT5AXGV7wmFl9eysx75JAopLyE?email=Subash.Khati%40murdoch.edu.au&e=6SyRSs)
 
 ## Project Summary:
 
