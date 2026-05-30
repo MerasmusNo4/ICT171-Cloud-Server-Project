@@ -43,9 +43,5 @@ Follow these steps:
 6. Click start
 7. Virtual Box will tell you that you are starting a machine with no boot media. You need to point Virtualbox towards your Ubuntu .iso file so that it can boot from this
 
-After following these, steps, the following windows should look like this:
-
-![Virtualbox](https://github.com/MerasmusNo4/ICT171-Cloud-Server-Project/upload/main)                  ![](ubuntu)
-
 
 
