@@ -6,8 +6,8 @@ Documentation of the development of an online cloud server. This repository was 
 
 ### Submission Links:
 
-- **Website**:
-- **Video Explainer**:
+- **Website**: [AI Central][https://aicentral-asimovss.tech/about-ai-central/]
+- **Video Explainer**: 
 
 ## Project Summary:
 
