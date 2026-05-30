@@ -8,3 +8,34 @@ In this way, Node.js and Express.js will be used to develop and display the prot
 
 Node.js was chosen over other software due to it's ability to handle massive numbers of concurrent connections, an extermely useful feature for AI Central which has been designed to connect to a wide variety of AI software.
 
+Useful Website:
+[https://www.w3schools.com/nodejs/nodejs_express.asp](https://www.w3schools.com/nodejs/nodejs_express.asp)
+
+How to run the application automatically:
+
+First, run:
+
+    sudo nano /etc/systemd/system/my-node-app.service
+
+Then, write the following program (bash script must have been completed beforehand):
+
+    [Unit]
+    Description=My Node.js App
+    After=network.target
+
+    [Service]
+    ExecStart=/usr/bin/bash /var/testapp/runapp.bash
+    WorkingDirectory=/var/testapp
+    Restart=always
+    RestartSec=10
+    Environment=NODE_ENV=production
+    User=root
+    Group=root
+    StandardOutput=syslog
+    StandardError=syslog
+    SyslogIdentifier=my-node-app
+
+    [Install]
+    WantedBy=multi-user.target
+
+
