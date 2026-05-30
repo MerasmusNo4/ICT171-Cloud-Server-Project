@@ -45,7 +45,7 @@ Follow these steps:
 
 After following these, steps, the following windows should look like this:
 
-![](VirtBox)                  ![](ubuntu)
+![](https://github.com/MerasmusNo4/ICT171-Cloud-Server-Project/upload/main)                  ![](ubuntu)
 
 
 
