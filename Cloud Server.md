@@ -34,8 +34,7 @@ The SSH public key can be downloaded from Azure.
 The server ca be remotely connected to on a local device through the macOS terminal.
 Open the macOS terminal, navigate to the directory with the SSH public key, and enter the following command:
 
-'''bash
-ssh -i "Webserver_key.pem" Merasmus06@[server_ip_address]
+'''ssh -i "Webserver_key.pem" Merasmus06@[server_ip_address]
 
 
 The server's public IP address can be found on the server's "Overview" page
