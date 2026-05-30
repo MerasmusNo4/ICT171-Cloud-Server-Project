@@ -23,7 +23,7 @@ Open the .dmg and follow the steps to install Virtualbox before preceding.
 
 Download the latest version of Ubuntu ~~(Ubuntu 24.04 LTS)~~ (Ubuntu 26.04 LTS) from the link below. 
 
-[https://www.virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads)
+[https://ubuntu.com/download/desktop](https://ubuntu.com/download/desktop)
 
 Windows users should download the "AMD" version, while macOS users should select the "ARM" version.
 Much like with Virtualbox, open the .dmg and complete the installation process before proceding.
