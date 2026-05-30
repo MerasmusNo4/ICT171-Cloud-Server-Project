@@ -38,5 +38,5 @@ This project was primarily developed on a MacBook Air with:
 4. [Digital Certificate](https://github.com/MerasmusNo4/ICT171-Cloud-Server-Project/blob/main/Digital%20Certificate.md)
 5. [Bash Scripting](https://github.com/MerasmusNo4/ICT171-Cloud-Server-Project/blob/main/Bash%20Scripting.md)
 6. Additional Software Extensions:
-    - WordPress
+    - [WordPress](https://github.com/MerasmusNo4/ICT171-Cloud-Server-Project/blob/main/Wordpress.md)
     - Node.js
