@@ -38,3 +38,13 @@ Open the macOS terminal, navigate to the directory with the SSH public key, and 
 
 The server's public IP address can be found on the server's "Overview" page
 
+## Install Nginx
+
+As the cloud server is new, ubuntu must be fully updated before any changes are made. Type:
+
+    sudo apt update
+
+Then install nginx with:
+
+    sudo apt install nginx-full
+
